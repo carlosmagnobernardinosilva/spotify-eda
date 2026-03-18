@@ -311,9 +311,9 @@ Baixa:    Agosto-Sept    (oportunidade de mercado)
 Correlação: -0.58 (moderada negativa)
 Significado: Quanto mais energética a música, 
              menor a presença acústica
-<img width="882" height="457" alt="image" src="https://github.com/user-attachments/assets/55f20d94-babe-4e68-aa85-ec350b2c74fc" />
 
 ```
+![Correlação](images/corre.png)
 
 ### 5. **TOP 5 artistas com mais musicas entre as mais tocadas**
 ```
