@@ -221,30 +221,17 @@ key:              ~10% de valores nulos → substituídos por 'Miss_verificar'
 spotify-eda/
 ├── README.md                           # Este arquivo
 ├── TECHNICAL_DOCS.md                   # Documentação técnica detalhada
-├── requirements.txt                    # Dependências do projeto
 │
 ├── notebooks/
 │   └── EDA_Spotify.ipynb               # Análise exploratória completa
 │
-├── data/
-│   ├── raw/
-│   │   └── Spotify Most Streamed Songs.csv
-│   └── processed/
-│       └── spotify_cleaned.csv
-│
-├── src/
-│   ├── data_loader.py                  # Carregar dados
-│   ├── data_processor.py               # Limpeza e transformação
-│   └── visualization.py                # Gráficos reutilizáveis
-│
-├── outputs/
-│   ├── figures/                        # Gráficos exportados
-│   │   ├── playlists_by_platform.png
-│   │   ├── songs_by_year.png
-│   │   └── musical_correlation.png
-│   └── reports/
-│       └── insights_summary.md
-│
+├── imagens/                            # Gráficos exportados
+│   ├── corre.png                       
+│   ├── distribuicao_mes
+│   ├── playlist_por_plataforma
+│   ├── tendencia_anual
+│   └── top_10_artistas
+│       
 └── dashboard.py                        # Dashboard Streamlit (Bônus)
 ```
 
@@ -300,10 +287,9 @@ Spotify:       32.8x maior que Deezer e Apple Music
 ```
 Pico:     Abril-Maio     (verão hemisfério norte)
 Baixa:    Agosto-Sept    (oportunidade de mercado)
-<img width="559" height="479" alt="image" src="https://github.com/user-attachments/assets/e3e8f9a8-b801-4037-b1c4-7a7557a5b74d" />
 
 ```
-
+![Correlação](imagens/distribuicao_mes.png)
 ### 4. **Correlação Musical: Energy × Acousticness**
 ```
 Correlação: -0.58 (moderada negativa)
@@ -314,7 +300,7 @@ Significado: Quanto mais energética a música,
 ![Correlação](imagens/corre.png)
 
 ### 5. **TOP 10 artistas com mais musicas entre as mais tocadas**
-![Correlação](imagens/top 10 artistas.png)
+![Correlação](imagens/top_10_artistas.png)
 
 
 ---
@@ -398,7 +384,7 @@ Significado: Quanto mais energética a música,
 ## 📚 Referências e Fontes
 
 - [Spotify for Developers](https://developer.spotify.com/documentation/web-api)
-- [Dataset - Spotify Most Streamed Songs 2023]([https://www.kaggle.com/datasets/datasets](https://www.kaggle.com/datasets/abdulszz/spotify-most-streamed-songs/data))
+- [Dataset - Spotify Most Streamed Songs 2023]([https://www.kaggle.com/datasets/datasets](https://www.kaggle.com/datasets/abdulszz/spotify-most-streamed-songs/data)
 - [Python Data Science Stack](https://pandas.pydata.org/docs/)
 
 ---
