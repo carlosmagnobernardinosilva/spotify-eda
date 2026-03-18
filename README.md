@@ -314,11 +314,13 @@ Significado: Quanto mais energética a música,
              menor a presença acústica
 ```
 
-### 5. **Artistas Top 10**
+### 5. **TOP 5 artistas com mais musicas entre as mais tocadas**
 ```
-1º. Taylor Swift      ████████
-2º. [Artista X]       ██████
-3º. [Artista Y]       █████
+1º. Taylor Swift ████████████████ 35 Faixas
+2º. [The Weeknd] █████████ 23 Faixas      
+3º. [SZA]        ███████ 19 Faixas
+4º. [SZA]        ███████ 19 Faixas
+5º. Harry Styles ██████ 17 Faixas
 ...
 ```
 
@@ -347,25 +349,6 @@ Significado: Quanto mais energética a música,
 4. Investigar **impacto de eventos sociais** (festival, prêmios, etc.)
 
 ---
-
-## 🔮 Trabalhos Futuros
-
-### Curto Prazo (1-2 semanas)
-- [ ] Análise temporal: evolução de características ao longo dos anos
-- [ ] Clustering de músicas similares (K-means, DBSCAN)
-- [ ] Classificação de popularidade (música hit vs normal)
-
-### Médio Prazo (1-2 meses)
-- [ ] Modelo preditivo de sucesso musical
-- [ ] Análise de sentimento de nomes de faixas
-- [ ] Integração com API em tempo real do Spotify
-- [ ] Dashboard interativo em produção
-
-### Longo Prazo (2+ meses)
-- [ ] Recomendador de músicas similar a Spotify
-- [ ] Análise de redes sociais de artistas
-- [ ] Previsão de tendências futuras
-- [ ] Web app público com insights
 
 ---
 
@@ -417,51 +400,14 @@ Significado: Quanto mais energética a música,
 
 ---
 
-## 📖 Licença
-
-Este projeto está sob a licença **MIT**. Veja arquivo `LICENSE` para detalhes.
-
----
-
-## 🤝 Contribuições
-
-Sugestões, melhorias e reports de bugs são bem-vindos!
-
-1. Faça um **Fork** do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um **Pull Request**
-
----
-
-## 📞 Contato
-
-**Autor:** [Seu Nome]  
-**LinkedIn:** [Seu LinkedIn](https://linkedin.com/in/seu-usuario)  
-**GitHub:** [Seu GitHub](https://github.com/seu-usuario)  
-**Email:** seu.email@exemplo.com
-
 ---
 
 ## 📚 Referências e Fontes
 
 - [Spotify for Developers](https://developer.spotify.com/documentation/web-api)
-- [Dataset - Spotify Most Streamed Songs 2023](https://www.kaggle.com/datasets/datasets)
-- [Exploratory Data Analysis Guide](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
+- [Dataset - Spotify Most Streamed Songs 2023]([https://www.kaggle.com/datasets/datasets](https://www.kaggle.com/datasets/abdulszz/spotify-most-streamed-songs/data))
 - [Python Data Science Stack](https://pandas.pydata.org/docs/)
 
 ---
 
-<div align="center">
 
-**Análise Exploratória de Dados - Spotify**
-
-Desenvolvido com ❤️ usando Python, Pandas e Matplotlib
-
-*Última atualização: Março 2026*
-
-⭐ Se este projeto foi útil, considere deixar uma estrela! ⭐
-
-</div>
->>>>>>> 7d3e7b2 (estrutura inicial do projeto)
