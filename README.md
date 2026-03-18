@@ -8,7 +8,7 @@ Análise Exploratória de Dados (EDA) em um conjunto de dados do Spotify, revela
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+
 
 ---
 
