@@ -287,24 +287,23 @@ O dashboard abrirá em `http://localhost:8501`
 
 ### 1. **Presença em Playlists por Plataforma**
 ```
-Spotify:       32.8x maior que Deezer
-Apple Music:   6.2x maior que Deezer
-Shazam:        Dados concentrados em top hits
-Deezer:        Menor presença, possível viés geográfico
+Spotify:       32.8x maior que Deezer e Apple Music
+<img width="599" height="481" alt="image" src="https://github.com/user-attachments/assets/ccbbc06f-55e8-4bc1-a39a-dae10d8f0925" />
+
 ```
 
 ### 2. **Distribuição de Lançamentos por Ano**
 ```
-2022:          ████████████████████ 77%
-2021:          ██ 8%
-2020:          █ 5%
-Antes 2020:    █ 10%
+<img width="979" height="386" alt="image" src="https://github.com/user-attachments/assets/c8b90692-01bf-4da6-89c1-edd3e4911551" />
+
 ```
 
 ### 3. **Lançamentos por Mês do Ano**
 ```
 Pico:     Abril-Maio     (verão hemisfério norte)
 Baixa:    Agosto-Sept    (oportunidade de mercado)
+<img width="559" height="479" alt="image" src="https://github.com/user-attachments/assets/e3e8f9a8-b801-4037-b1c4-7a7557a5b74d" />
+
 ```
 
 ### 4. **Correlação Musical: Energy × Acousticness**
@@ -312,15 +311,14 @@ Baixa:    Agosto-Sept    (oportunidade de mercado)
 Correlação: -0.58 (moderada negativa)
 Significado: Quanto mais energética a música, 
              menor a presença acústica
+<img width="882" height="457" alt="image" src="https://github.com/user-attachments/assets/55f20d94-babe-4e68-aa85-ec350b2c74fc" />
+
 ```
 
 ### 5. **TOP 5 artistas com mais musicas entre as mais tocadas**
 ```
-1º. Taylor Swift ████████████████ 35 Faixas
-2º. [The Weeknd] █████████ 23 Faixas      
-3º. [SZA]        ███████ 19 Faixas
-4º. [SZA]        ███████ 19 Faixas
-5º. Harry Styles ██████ 17 Faixas
+<img width="979" height="389" alt="image" src="https://github.com/user-attachments/assets/37fae097-4e16-42c9-b6e8-6ed14fc2a8a5" />
+
 ...
 ```
 
