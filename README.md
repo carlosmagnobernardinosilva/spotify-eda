@@ -286,17 +286,15 @@ O dashboard abrirá em `http://localhost:8501`
 ## 📊 Visualizações Principais
 
 ### 1. **Presença em Playlists por Plataforma**
-```
-Spotify:       32.8x maior que Deezer e Apple Music
-<img width="599" height="481" alt="image" src="https://github.com/user-attachments/assets/ccbbc06f-55e8-4bc1-a39a-dae10d8f0925" />
 
-```
+
+Spotify:       32.8x maior que Deezer e Apple Music
+
+![Correlação](imagens/tendencia_anual.png)
 
 ### 2. **Distribuição de Lançamentos por Ano**
-```
-<img width="979" height="386" alt="image" src="https://github.com/user-attachments/assets/c8b90692-01bf-4da6-89c1-edd3e4911551" />
+![Correlação](imagens/playlists_por_plataforma.png)
 
-```
 
 ### 3. **Lançamentos por Mês do Ano**
 ```
@@ -313,14 +311,11 @@ Significado: Quanto mais energética a música,
              menor a presença acústica
 
 ```
-![Correlação](images/corre.png)
+![Correlação](imagens/corre.png)
 
-### 5. **TOP 5 artistas com mais musicas entre as mais tocadas**
-```
-<img width="979" height="389" alt="image" src="https://github.com/user-attachments/assets/37fae097-4e16-42c9-b6e8-6ed14fc2a8a5" />
+### 5. **TOP 10 artistas com mais musicas entre as mais tocadas**
+![Correlação](imagens/top 10 artistas.png)
 
-...
-```
 
 ---
 
