@@ -384,7 +384,7 @@ Significado: Quanto mais energética a música,
 ## 📚 Referências e Fontes
 
 - [Spotify for Developers](https://developer.spotify.com/documentation/web-api)
-- [Dataset - Spotify Most Streamed Songs 2023]([https://www.kaggle.com/datasets/datasets](https://www.kaggle.com/datasets/abdulszz/spotify-most-streamed-songs/data)
+- [Dataset - Spotify Most Streamed Songs 2023](https://www.kaggle.com/datasets/datasets](https://www.kaggle.com/datasets/abdulszz/spotify-most-streamed-songs/data)
 - [Python Data Science Stack](https://pandas.pydata.org/docs/)
 
 ---
